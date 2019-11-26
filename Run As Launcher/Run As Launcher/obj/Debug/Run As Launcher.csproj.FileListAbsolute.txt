@@ -1,0 +1,10 @@
+C:\Users\acollins\Desktop\Repos_Scripts_Programs\Repos\Run As Launcher\Run As Launcher\obj\Debug\Run As Launcher.csprojAssemblyReference.cache
+C:\Users\acollins\Desktop\Repos_Scripts_Programs\Repos\Run As Launcher\Run As Launcher\obj\Debug\Run_As_Launcher._mainForm.resources
+C:\Users\acollins\Desktop\Repos_Scripts_Programs\Repos\Run As Launcher\Run As Launcher\obj\Debug\Run_As_Launcher.Properties.Resources.resources
+C:\Users\acollins\Desktop\Repos_Scripts_Programs\Repos\Run As Launcher\Run As Launcher\obj\Debug\Run As Launcher.csproj.GenerateResource.cache
+C:\Users\acollins\Desktop\Repos_Scripts_Programs\Repos\Run As Launcher\Run As Launcher\obj\Debug\Run As Launcher.csproj.CoreCompileInputs.cache
+C:\Users\acollins\Desktop\Repos_Scripts_Programs\Repos\Run As Launcher\Run As Launcher\bin\Debug\Run As Launcher.exe.config
+C:\Users\acollins\Desktop\Repos_Scripts_Programs\Repos\Run As Launcher\Run As Launcher\bin\Debug\Run As Launcher.exe
+C:\Users\acollins\Desktop\Repos_Scripts_Programs\Repos\Run As Launcher\Run As Launcher\bin\Debug\Run As Launcher.pdb
+C:\Users\acollins\Desktop\Repos_Scripts_Programs\Repos\Run As Launcher\Run As Launcher\obj\Debug\Run As Launcher.exe
+C:\Users\acollins\Desktop\Repos_Scripts_Programs\Repos\Run As Launcher\Run As Launcher\obj\Debug\Run As Launcher.pdb
